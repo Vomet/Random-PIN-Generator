@@ -1,2 +1,2 @@
 # Random-PIN-Generator
-Generates random PINs.
+Generates random PINs using a set length.
